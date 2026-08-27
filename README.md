@@ -1,6 +1,6 @@
 # Voyti 2FA — TOTP Method
 
-Authenticator-app (TOTP) two-factor authentication method for [Voyti](https://github.com/YiiRocks/voyti), the Yii3 user-management extension. Provisions a secret via QR code and verifies the time-based code the user's authenticator app generates.
+Authenticator-app (TOTP) two-factor authentication method for [Voyti](https://github.com/YiiRocks/voyti), the Yii3 user-management extension.
 
 [![Packagist Version](https://img.shields.io/packagist/v/yiirocks/voyti-2fa-totp.svg)](https://packagist.org/packages/yiirocks/voyti-2fa-totp)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/yiirocks/voyti-2fa-totp.svg)](https://php.net/)
@@ -14,10 +14,6 @@ Stats for Nerds
 [![MSI](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyiirocks%2Fvoyti-2fa-totp%2Fbadges%2Fmsi.json)](https://github.com/yiirocks/voyti-2fa-totp/tree/badges)
 [![Tests](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyiirocks%2Fvoyti-2fa-totp%2Fbadges%2Ftests.json)](https://github.com/yiirocks/voyti-2fa-totp/tree/badges)
 [![Assertions](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyiirocks%2Fvoyti-2fa-totp%2Fbadges%2Fassertions.json)](https://github.com/yiirocks/voyti-2fa-totp/tree/badges)
-
-## Overview
-
-A two-factor **method** package for Voyti's [voyti-2fa](https://github.com/YiiRocks/voyti-2fa) base. Install it and it registers itself — its button appears on the settings screen's method switcher and it becomes selectable in the login confirmation step.
 
 ## Installation
 
